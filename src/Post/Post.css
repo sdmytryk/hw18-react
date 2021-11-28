@@ -1,0 +1,10 @@
+.post {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    height: max-content;
+    position: relative;
+    padding-left: 80px;
+    padding-right: 20px;
+    background-color: rgb(16, 23, 43);
+}
